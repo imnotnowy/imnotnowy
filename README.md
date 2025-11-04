@@ -8,5 +8,4 @@ nowyy.__
 
 I'm usually into luau as it is very easy.
 
-My website:
-luminaa.pages.dev
+[My website](https://luminaa.pages.dev)
