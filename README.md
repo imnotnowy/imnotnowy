@@ -9,3 +9,5 @@ nowyy.__
 I'm usually into luau as it is very easy.
 
 [My website](https://luminaa.pages.dev)
+[My `opensource` repo](https://github.com/imnotnowy/opensource)
+[My `Lumina` repo](https://github.com/imnotnowy/Lumina)
