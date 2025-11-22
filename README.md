@@ -3,8 +3,7 @@ I'm **Nowy**.
 
 I code *lua, luau, python, html, javascript and c#*
 
-You can contact me via discord, here's my discord:
-nowyy.__
+You can contact me via discord which is in my website.
 
 I'm usually into luau as it is very easy.
 
